@@ -1,0 +1,497 @@
+    1  clear
+    2  sudo update
+    3  clear
+    4  sudo update
+    5  update
+    6  sudo
+    7  -sudo update
+    8  sudo -update
+    9  clear
+   10  sudo update
+   11  sudo apt update
+   12  sudo apt upgrade
+   13  clear
+   14  sudo apt install neofetch
+   15  neofetch
+   16  exit
+   17  wsl -d -kali linux
+   18  exi
+   19  exit
+   20  wsl -d -ubuntu
+   21  wsl -distribution
+   22  exi
+   23  exit
+   24  mkdir -p
+   25  --help
+   26  exit
+   27  touch file1.txt file2.txt file3.txt
+   28  sudo apt
+   29  touch file1.txt file2.txt file3.txt
+   30  exit
+   31  sudo systemctl status apache2
+   32  sudo apt install apache2
+   33  sudo apt-get update apache2
+   34  sudo apt-get install default-mysql-server
+   35  sudo apt-get install apache2
+   36  apt-get update apache2
+   37  sudo apt update
+   38  sudo apt upgrade apache2
+   39  sudo systemctl restart apache2
+   40  sudo systemct1 restart apache2
+   41  sudo systemctl restart apache2
+   42  cd /var/www/html/info.php
+   43  cd /var/www/html
+   44  sudo nano info.php
+   45  open http://localhost/phpinfo.php
+   46  ls /var/www/html
+   47  chmod 644 /var/www/html/phpinfo.php
+   48  chmod 644 /var/www/html/info.ph
+   49  clear
+   50  exti
+   51  exit
+   52  cd /var/www/html
+   53  code ,
+   54  code .
+   55  <?php
+   56  $servername = "localhost";
+   57  $username = "root";
+   58  $password = "";
+   59  // Create connection
+   60  $conn = new mysqli($servername, $username, $password);
+   61  // Check connection
+   62  if ($conn->connect_error) {
+   63  }
+   64  echo "Connected successfully";
+   65  ?>
+   66  <?php
+   67  phpinfo();
+   68  ?>
+   69  sudo apt install default-jdk
+   70  sudo apt install python3
+   71  sudo apt install php php-mysql
+   72  git init
+   73  exit
+   74  sudo apt install default-jdk
+   75  sudo apt install python3
+   76  sudo apt install php php-mysql
+   77  sudo apt install mysql-server
+   78  sudo apt install apache2
+   79  sudo apt upgrade
+   80  sudo apt-get update
+   81  sudo apt update
+   82  apt list --upgradable
+   83  sudo apt upgrade apache2
+   84  sudo apt install apache2
+   85  sudo apt update
+   86  sudo apt-get update
+   87  sudo apt-get upgrade
+   88  sudo apt upgrade
+   89  [fawopeyirvwqv ]
+   90  <?php
+   91  phpinfo();
+   92  ?>
+   93  code .
+   94  cd /var/www/html
+   95  code .
+   96  touch info.php
+   97  sudo chmod 777 /var/www/html
+   98  exit
+   99  cd var/www/html
+  100  cd /var/www/html
+  101  touch kse.php
+  102  ls
+  103  touch phpinfo.php
+  104  code .
+  105  ls
+  106  mv info.php testmysql.php
+  107  ls
+  108  cd DemoFiles
+  109  ls
+  110  exit
+  111  cd DemoFiles
+  112  code .
+  113  cd kyrene
+  114  cd ../..
+  115  cd Kyrene
+  116  git init
+  117  git status
+  118  git add
+  119  git add DemoFiles
+  120  git commit -m "Sample Programs for installed Programming Languages"
+  121  sh git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  122  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  123  git push -u origin master
+  124  ls
+  125  cls
+  126  slear
+  127  clear
+  128  git add
+  129  git add DemoFiles
+  130  git commit -m "Sample scripts of newly installed Proramming Languages
+  131  git config --global user.mail "kcestocapio05@gmail.com"
+  132  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  133  https://github.com/kyrenieee/234736639_Estocap
+  134  git add origin https://github.com/kyrenieee/234736639_Estoapio
+  135  git remote add DemoFiles https://github.com/kyrenieee/234736639_Estocapio
+  136  git push -u origin master
+  137  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  138  m/kyrenieee/234736639_Estocapio
+  139  git remote add DemoFiles https://github.com/kyrenieee/234736639_Estocapio
+  140  [200~git remote set-url origin https://<username>:<personal-access-token>@github.com/<username>/<repository>.git~
+  141  git remote 
+  142  get remote set-url origin htttps://kyrenieee:
+  143  get remote set-url origin htttps://kyrenieee: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@github.com/kyrenieee/234736639_Estocapio.git
+  144  git remote set-url origin htttps://kyrenieee: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@github.com/kyrenieee/234736639_Estocapio.git
+  145  git add DemoFie
+  146  clr
+  147  clear
+  148  git add DemoFiles
+  149  git commit -m "Sample scripts of installed programming languages"
+  150  git config -- user.name "kyrenieee"
+  151  sh git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  152  git add DemoFiles
+  153  git git commit -m "Sample scripts of installed programming languages"
+  154  git commit -m "Sample scripts of installed programming languages"
+  155  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  156  git push -u origin master
+  157  git push
+  158  gi tpush
+  159  git push --set-upstream origin master
+  160  git push
+  161  git remote rename origin demo
+  162  git push -u demo mastere
+  163  git push -u demo master
+  164  clear
+  165  exit
+  166  clear
+  167  git int
+  168  git init
+  169  git add DemoFiles
+  170  git commit -m "Sample scripts of programming languages"
+  171  git remote add https://github.com/kyrenieee/234736639_Estocapio
+  172  gir remote add -f DemoFiles https://github.com/kyrenieee/234736639_Estocapio
+  173  git remote add -f DemoFiles https://github.com/kyrenieee/234736639_Estocapio
+  174  exit
+  175  cd /var/www/html
+  176  explorer.exe .
+  177  git init
+  178  git clone https://github.com/kyrenieee/234736639_Estocapio
+  179  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  180  git int
+  181  git init
+  182  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  183  git config --global --add safe.directory /var/www/html
+  184  fwergit commit -m "Sample scripts of programming languages"
+  185  git fetch
+  186  ls
+  187  git add DemoFile
+  188  git commit -m "Sample scripts for newly installed programming languages"
+  189  Omit --global to set the identity only in this repository.
+  190  git config --global user.email "kcestcapio05@gmail.com"
+  191  git config --global user.name "kyrenieee"
+  192  asdadasgit commit
+  193  git commit -m "Sample scripts for newly installed programming languages"
+  194  git push
+  195  git remote add https://github.com/kyrenieee/234736639_Estocapio
+  196  git push
+  197  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  198  git push
+  199  git remote -v
+  200  git checkout master
+  201  git branch
+  202  get remote set-url origin htttps://kyrenieee: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@github.com/kyrenieee/234736639_Estocapio.git
+  203  git remote set-url origin htttps://kyrenieee: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@github.com/kyrenieee/234736639_Estocapio.git
+  204  git push
+  205  git push --set-upstream origin master
+  206  git push
+  207  git push --set-upstream origin master
+  208  get remote set-url origin https://kyrenieee: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@github.com/kyrenieee/234736639_Estocapio.git
+  209  git remote set-url origin https://kyrenieee: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@github.com/kyrenieee/234736639_Estocapio.git
+  210  git push
+  211  git push --set-upstream origin master
+  212  git fetch
+  213  git push
+  214  git push --set-upstream origin master
+  215  git pull
+  216  git pull https://github.com/kyrenieee/234736639_Estocapio
+  217  git pull https://github.com/kyrenieee/234736639_Estocapio master main
+  218  git pus
+  219  push 
+  220  git push
+  221  git push --help
+  222  git push -f
+  223  git push --force
+  224  git checkout master
+  225  git add DemoFile
+  226  git commit -m "Sample Scripts of installed programming languages"
+  227  git add
+  228  git add .
+  229  ls
+  230  git add DemoFile
+  231  git add 
+  232  ls
+  233  git add DemoFile
+  234  git commit -m "Sample Scripts of inst
+  235  alled programming languages"
+  236  git commit -m "Sample Scripts of installed programming languages"
+  237  git push
+  238  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  239  git add DemoFiel
+  240  git add DemoFile
+  241  git commit -m "Sample Scripts of installed programming languages"
+  242  git pull origin master
+  243  git push
+  244  git push --set-upstream origin master
+  245  git pull
+  246  git pull https://github.com/kyrenieee/234736639_Estocapio
+  247  git pull https://github.com/kyrenieee/234736639_Estocapio https://github.com/kyrenieee/234736639_Estocapio
+  248  git pull https://github.com/kyrenieee/234736639_Estocapio unknown
+  249  git branch --set-upstream-to=origin/master master
+  250  git pull https://github.com/kyrenieee/234736639_Estocapio master
+  251  git push
+  252  git push -f origin master
+  253  ls
+  254  clear
+  255  exit
+  256  cd /var/www/html
+  257  git init
+  258  git push --force-with-lease https://github.com/kyrenieee/234736639_Estocapio master
+  259  neofetch
+  260  clear
+  261  git
+  262  gh
+  263  git
+  264  git -v
+  265  git --version
+  266  git --v
+  267  clear
+  268  ssh
+  269  gh
+  270  sudo apt  install gh
+  271  gh auth login
+  272  git status
+  273  git remote add origin https://github.com/kyrenieee
+  274  git remote add origin https://github.com/kyrenieee/234736639_Estocapio
+  275  git clone https://github.com/kyrenieee/234736639_Estocapio
+  276  git statues
+  277  git status
+  278  ls
+  279  cd  234736639_Estocapio/
+  280  cd 234736639_Estocapio/
+  281  cd
+  282  cd 234736639_Estocapio/
+  283  /mnt/c/Users/Kyrene
+  284  clear
+  285  wsl
+  286  git status
+  287  git auth login
+  288  git
+  289  git auth login
+  290  exit
+  291  git gh
+  292  gh
+  293  git auth login
+  294  git init
+  295  git auth
+  296  gh
+  297  auth login
+  298  gh auth login
+  299  sudo apt update
+  300  ls
+  301  cd 234736639_Estocapio
+  302  gh auth login
+  303  git inot
+  304  git init
+  305  clear
+  306  git status
+  307  git add .
+  308  git commit -m "test"
+  309  git push
+  310  clear
+  311  sudo apt remove gh
+  312  sudo apt purge gh
+  313  git push
+  314  wsl shutdown
+  315  wsl -shutdown
+  316  wsl --shutdown
+  317  exit
+  318  cd 234736639_Estocapio
+  319  git push
+  320  git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/bin/git-credential-manager.exe"
+  321  git push
+  322  cls
+  323  sleat
+  324  clear
+  325  ls
+  326  python3
+  327  du===
+  328  clear
+  329  sudo apt upgrade && update
+  330  javac
+  331  javac --version
+  332  python --version
+  333  python3 --version
+  334  wxit
+  335  exit
+  336  cd
+  337  cd 234736639_Estocapio
+  338  .bash_history
+  339  .bash history
+  340  clear
+  341  mkdir linux_practice
+  342  cd linux_practice
+  343  touch notes.txt
+  344  ls
+  345  echo >> notes.txt
+  346  cat notes.txt
+  347  exit
+  348  clear
+  349  exit
+  350  cls
+  351  clear
+  352  cd 234736639_Estocapio
+  353  mkdir linux_practice
+  354  cd linux_practice
+  355  touch notes.txt
+  356  ls
+  357  echo "Hello, Linux!" >> notes.txt
+  358  echo 
+  359  echo "This is a practical exam" >> notes.txt
+  360  head notes.txt
+  361  tail notes.txt
+  362  mkdir subdir
+  363  clear
+  364  ?
+  365  clear
+  366  --help
+  367  -help
+  368  clear
+  369  mv notes.txt subdir
+  370  cd subdir
+  371  ls
+  372  cd ./.
+  373  cd /
+  374  exit
+  375  clear
+  376  cd 234736639_Estocapio
+  377  mkdir linux_practice
+  378  cd linux_practice
+  379  touch notes.txt
+  380  ls
+  381  echo "Hello, Linux!" > notes.txt
+  382  echo "This is a practical exam." >> notes.txt
+  383  head notes.txt
+  384  tail notes.txt
+  385  mkdir subdir
+  386  mv notes.txt subdir
+  387  cd subdir
+  388  ls
+  389  cd ../4+
+  390  cd ../
+  391  clear
+  392  ren subdir > practice_subdir
+  393  cd subdir
+  394  ls
+  395  mv src practice_subdir
+  396  mv practice_subdir
+  397  mv --help
+  398  clear
+  399  ren subdir practice_subdir
+  400  mv source practice_subdir
+  401  mv practice_subdir
+  402  mv subdir practice_subdir
+  403  cd ../
+  404  mv subdir practice_subdir
+  405  ls
+  406  cp notes.txt
+  407  ls
+  408  cd practice_subdif
+  409  cd practice_subdir
+  410  cd subdir
+  411  cd ../
+  412  clear
+  413  mv subdir practice_subdir
+  414  cd subdir
+  415  ls
+  416  cd ../
+  417  ls
+  418  cd practice_subdir
+  419  cp notes.txt linux_practice
+  420  cd subdir
+  421  cp notes.txt linux_practice
+  422  cd ../
+  423  ls
+  424  date
+  425  uptime
+  426  ssh
+  427  php
+  428  php -v
+  429  ssh -v
+  430  clear
+  431  chdsk
+  432  chkdsk
+  433  mysql -v
+  434  apache -v
+  435  apache2 -v
+  436  python3 -v
+  437  javac -v
+  438  java
+  439  javac
+  440  jdk -v
+  441  javac -v
+  442  java -v
+  443  javac --version
+  444  python3 --version
+  445  ssh --version
+  446  php --version
+  447  mysql --version
+  448  apache2 --version
+  449  clear
+  450  exit
+  451  git checkout -b finalexam
+  452  history > exam_log.txt
+  453  git add . exam_log.txt
+  454  git commit -m "Added exam_log.txt with command history"
+  455  git init
+  456  history > exam_log.txt
+  457  git add . exam_log.txt
+  458  git commit -m "Added exam_log.txt with command history"
+  459  git push origin finalexam
+  460  -git checkout -b finalexam
+  461  git checkout -b finalexam
+  462  history >> exam_log.txt
+  463  head exam_log.txt
+  464  cat exam_log.txt
+  465  git add . exam_log.txt
+  466  git checkout -b finalexam
+  467  history > exam_log.txt
+  468  git init
+  469  git checkout -b finalexam
+  470  history > exam_log.txt
+  471  git add . exam_log.txt
+  472  git commit -m "Added exam_log.txt with command history"
+  473  git push origin finalexam
+  474  exit
+  475  .got
+  476  git init
+  477  clear
+  478  git checkout -b finalexam
+  479  history > exam_log.txt
+  480  git add . exam_log.txt
+  481  git commit -m "Added exam_log.txt with command history"
+  482  git add exam_log.txt
+  483  git commit -m "Added exam_log.txt with command history"
+  484  git push origin finalexam
+  485  git push finalexam
+  486  cd /finalexam
+  487  cd finalexa,
+  488  cd finalexam
+  489  pwd
+  490  git push origin finalexam
+  491  clear
+  492  git push origin finalexam
+  493  ls
+  494  cd  234736639_Estocapio
+  495  clear
+  496  git checkout -b finalexam
+  497  history > exam_log.txt
